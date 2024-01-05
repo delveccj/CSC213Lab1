@@ -1,1 +1,1 @@
-A sample git repository.
+A sample git repository. With one encrypted zip file!
